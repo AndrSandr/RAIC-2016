@@ -1,0 +1,6 @@
+D:\Wizard\csharp-cgdk\bin\Debug\csharp-cgdk.exe.config
+D:\Wizard\csharp-cgdk\bin\Debug\csharp-cgdk.exe
+D:\Wizard\csharp-cgdk\bin\Debug\csharp-cgdk.pdb
+D:\Wizard\csharp-cgdk\obj\Debug\csharp-cgdk.exe
+D:\Wizard\csharp-cgdk\obj\Debug\csharp-cgdk.pdb
+D:\Wizard\csharp-cgdk\obj\Debug\csharp-cgdk.csprojResolveAssemblyReference.cache
